@@ -5,3 +5,7 @@ a {
 a:hover {
   color: pink;
 }
+
+strong {
+  font-size: 18px
+}
