@@ -30,4 +30,6 @@ a:hover {
 
 img.round {
   border-radius: 50%;
+  max-height: 33vh;
+  max-width: 75vw;
 }
