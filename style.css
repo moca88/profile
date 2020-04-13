@@ -1,6 +1,8 @@
 body {
   background-color: #e27e8d;
   text-align: center;
+  
+  font-family: 'Arvo', serif;
 }
 
 a {
@@ -32,4 +34,8 @@ img.round {
   border-radius: 50%;
   max-height: 33vh;
   max-width: 75vw;
+}
+
+.jp {
+  font-family: 'Kosugi Maru', sans-serif;
 }
