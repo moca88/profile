@@ -1,9 +1,23 @@
 a {
-  color: red;
+  border-radius: 300px;
+  background-color: pink;
+  color: #fff;
+  display: inline-block;
+  font-size: 16px;
+  font-size: 1.6rem;
+  transition: opacity .3s ease;
+  text-align: center;
+  text-shadow: none;
+  border: 0;
+  cursor: pointer;
+  font-weight: normal;
+  padding: 0.8em 1.8em;
+  min-width: 30%;
+  line-height: 1.2;
 }
 
 a:hover {
-  color: pink;
+  background-color: red;
 }
 
 strong {
