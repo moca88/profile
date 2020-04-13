@@ -28,6 +28,6 @@ a:hover {
   background-color: #e47cce;
 }
 
-strong {
-  font-size: 18px
+img.round {
+  border-radius: 50%;
 }
