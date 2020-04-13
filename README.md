@@ -1,3 +1,3 @@
-## This is my profile!
+This is built with Github Pages.
 
-[asdf](https://instagram.com/mocatabi)
+[Visit Public Page](https://tomoka78.github.io/profile/)
