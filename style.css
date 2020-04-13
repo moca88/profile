@@ -1,23 +1,31 @@
+body {
+  background-color: #e27e8d;
+  text-align: center;
+}
+
 a {
   border-radius: 300px;
-  background-color: pink;
+  background-color: lightpink;
   color: #fff;
-  display: inline-block;
   font-size: 16px;
   font-size: 1.6rem;
-  transition: opacity .3s ease;
+  transition: 250ms ease;
   text-align: center;
   text-shadow: none;
-  border: 0;
   cursor: pointer;
   font-weight: normal;
   padding: 0.8em 1.8em;
   min-width: 30%;
   line-height: 1.2;
+  display: block;
+  width: fit-content;
+  margin: 15px auto;
+  border: 5px solid white;
+  text-decoration: none;
 }
 
 a:hover {
-  background-color: red;
+  background-color: #e47cce;
 }
 
 strong {
